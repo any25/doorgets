@@ -1,0 +1,1 @@
+a:6:{s:5:"title";s:4:"ESMN";s:6:"slogan";s:40:"Escuela Superior de Música del Neuquén";s:11:"description";s:40:"Escuela Superior de Música del Neuquén";s:8:"keywords";s:51:"Escuela, Música,Neuquén,Concierto,Evento,Noticias";s:9:"copyright";s:22:"Elias-Inostroza-Zamora";s:4:"year";s:4:"2018";}

@@ -1,0 +1,1 @@
+a:5:{s:4:"hote";s:9:"localhost";s:4:"name";s:8:"doorgets";s:5:"login";s:4:"esmn";s:8:"password";s:7:"esmn123";s:13:"mysql_version";s:6:"5.7.23";}
